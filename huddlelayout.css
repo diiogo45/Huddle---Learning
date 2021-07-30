@@ -1,0 +1,45 @@
+/* RESET */
+*{}
+
+body{background-image: url(images/desktop.png); background-size: cover; background-color: hsl(257, 40%, 49%);}
+
+/* FONT FACE */
+
+
+@font-face {
+font-family: 'Poppins', sans-serif;
+src: url(poppins-regular-webfont.woff);
+}
+
+
+/* HEADERS  */
+/* HUDDLE */
+h1 
+{color: white ;font-family:font-family: 'Poppins', sans-serif; color: white; margin-left: 50px;}
+
+/* h2 */
+.build {color: white; position: absolute; top: 150px; left: 550px; margin-left: 50px;}
+
+
+/* IMAGEM */ 
+
+img {height: 350px; position: absolute; left: 50px; top: 100px;}
+
+/*TEXT*/
+
+p { position: absolute;	left: 570px; top: 240px; color: white;}
+
+/* FORMULÁRIO */
+
+input[type="text"] {position: absolute; left: 570px; top: 330px;  border: none; text-align: center;  border-radius: 30px; width: 100px; padding: 10px; }
+
+/* ICONS */
+
+.fa-facebook { display: inline-block; border-radius: 60px; border: 1px solid white;   padding: 0.5em 0.6em;	position: absolute; left: 850px; top: 500px; color: white;}
+ 
+ 
+.fa-instagram {position: absolute; left: 900px; top: 500px; color: white; display: inline-block; border-radius: 60px; border: 1px solid white;  padding: 0.5em 0.6em;}
+
+.fa-twitter {position: absolute; left: 950px; top: 500px; color: white; display: inline-block; border-radius: 60px; border: 1px solid white;  padding: 0.5em 0.6em;}
+
+.fa-comment-dots {position: absolute; bottom: 570px; left: 20px; font-size: 35px; color: white;}
