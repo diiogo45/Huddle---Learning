@@ -1,5 +1,5 @@
-/* RESET */
-*{}
+
+
 
 body{background-image: url(images/desktop.png); background-size: cover; background-color: hsl(257, 40%, 49%);}
 
@@ -12,12 +12,15 @@ src: url(poppins-regular-webfont.woff);
 }
 
 
-/* HEADERS  */
+
 /* HUDDLE */
-h1 
+
+h1
+ 
 {color: white ;font-family:font-family: 'Poppins', sans-serif; color: white; margin-left: 50px;}
 
 /* h2 */
+
 .build {color: white; position: absolute; top: 150px; left: 550px; margin-left: 50px;}
 
 
