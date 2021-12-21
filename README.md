@@ -1,6 +1,6 @@
 ## Sobre o projeto ##
 
-- Esse projeto foi  desenvolvido como objetivo a criação de uma  tela de cartões com design com  adição de icons
+- Esse layout foi  desenvolvido como objetivo a criação de uma  tela de cartões com design com  adição de icons
 ## ICONS  UTILIZADOS  
 
 - https://fontawesome.com
